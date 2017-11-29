@@ -1,0 +1,28 @@
+:TITLE Quest Error Manager
+:BASE QuestErrorManager.hlp
+1 Quest Error Manager=Indgag.cs@QuestErrorManager.hlp
+1 Raising and handling errors
+2 Raising and handling errors=Raisingandhandlingerrors@QuestErrorManager.hlp
+2 Raise an error, passing context information=Raiseanerrorpassingcontex@QuestErrorManager.hlp
+2 Raise an error with minimal context=Raiseanerrorwithminimalco@QuestErrorManager.hlp
+2 Register an error instance=Registeranerror@QuestErrorManager.hlp
+2 Raise an error instance=Raiseanerror@QuestErrorManager.hlp
+2 Add context information=Addcontextinformation@QuestErrorManager.hlp
+2 How the Error Manager raises an error=HowQnxoraisesanerror@QuestErrorManager.hlp
+2 Process an error passed back to the host environment=Ind72dk.0@QuestErrorManager.hlp
+2 Show error information=Showerrorinformation@QuestErrorManager.hlp
+2 Passing back error handle or message=Passing_back_error_handle_or_m@QuestErrorManager.hlp
+2 Marking an Error as Handled=Marking_an_Error_as_Handled@QuestErrorManager.hlp
+1 Runtime execution tracing
+2 Runtime execution tracing=RuntimeTracing@QuestErrorManager.hlp
+2 Turn tracing on or off=Turntracingonoroff@QuestErrorManager.hlp
+2 Trace execution=Traceexecution@QuestErrorManager.hlp
+2 Check to see if tracing is enabled=Traceexecutiononlywhenaco@QuestErrorManager.hlp
+2 Toggle output repository for trace=Toggleoutputrepositoryfort@QuestErrorManager.hlp
+2 Show the trace information=Showthetraceinformation@QuestErrorManager.hlp
+1 Tables for Error management and Tracing
+2 Tables for Error management and Tracing=TheDeploymentTables@QuestErrorManager.hlp
+2 Error Definition Table=ErrorDefinitionTable@QuestErrorManager.hlp
+2 Error Instance Table=ErrorInstanceTable@QuestErrorManager.hlp
+2 Context Table=ContextTable@QuestErrorManager.hlp
+2 Log Table=LogTable@QuestErrorManager.hlp
