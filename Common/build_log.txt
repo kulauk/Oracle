@@ -1,0 +1,353 @@
+
+User created.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+*************************************
+*************************************
+** Building: Sequences
+*************************************
+
+Sequence created.
+
+
+Sequence created.
+
+
+Sequence created.
+
+
+Sequence created.
+
+
+Sequence created.
+
+
+Synonym created.
+
+CREATING: common.seq_id_trace_config
+
+Sequence created.
+
+
+Synonym created.
+
+
+Sequence created.
+
+
+Synonym created.
+
+
+Sequence created.
+
+
+Synonym created.
+
+*************************************
+** Completed: Sequences
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: tables
+*************************************
+
+Table created.
+
+
+Index created.
+
+
+Index created.
+
+
+Index created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Synonym created.
+
+
+Table altered.
+
+
+Table created.
+
+
+Index created.
+
+
+Index created.
+
+
+Index created.
+
+
+Index created.
+
+
+Index created.
+
+
+Table altered.
+
+
+Table created.
+
+
+Index created.
+
+
+Index created.
+
+
+Table altered.
+
+
+Synonym created.
+
+
+Table created.
+
+
+Index created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Synonym created.
+
+
+Table altered.
+
+
+Table created.
+
+
+Index created.
+
+
+Synonym created.
+
+
+Table altered.
+
+
+Table created.
+
+
+Index created.
+
+
+Table altered.
+
+
+Synonym created.
+
+CREATING: common.trace_config
+
+Table created.
+
+
+Index created.
+
+
+Index created.
+
+
+Trigger created.
+
+
+Table altered.
+
+
+Synonym created.
+
+CREATING: common.trace_summary
+
+Table created.
+
+
+Index created.
+
+
+Table altered.
+
+
+Synonym created.
+
+CREATING: common.trace_log
+
+Table created.
+
+
+Index created.
+
+
+Table altered.
+
+
+Table altered.
+
+
+Synonym created.
+
+*************************************
+** Completed: tables
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: Types
+*************************************
+
+Type created.
+
+
+Type created.
+
+CREATING: common.tab_app_mgr_parameter
+
+Type created.
+
+
+Synonym created.
+
+
+Type created.
+
+*************************************
+** Completed: Types
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: Package
+*************************************
+
+Package created.
+
+
+Package created.
+
+
+Package created.
+
+
+Package created.
+
+
+Package created.
+
+*************************************
+** Completed: Package
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: Package Body
+*************************************
+
+Package body created.
+
+
+Package body created.
+
+
+Package body created.
+
+
+Package body created.
+
+
+Package body created.
+
+*************************************
+** Completed: Package Body
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: Scheduler objects
+*************************************
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+
+PL/SQL procedure successfully completed.
+
+*************************************
+** Completed: Scheduler objects
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: Grants
+*************************************
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+*************************************
+** Completed: Grants
+*************************************
+Hit Enter to continue..
+
+*************************************
+*************************************
+** Building: Synonyms
+*************************************
+
+Synonym created.
+
+
+Synonym created.
+
+
+Synonym created.
+
+*************************************
+** Completed: Synonyms
+*************************************
+Hit Enter to continue..
+
