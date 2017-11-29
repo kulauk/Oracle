@@ -1,0 +1,1 @@
+CREATE OR REPLACE CONTEXT pkg_util_dynsql_ctx USING pkg_util_dynsql;

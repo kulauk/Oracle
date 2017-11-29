@@ -1,0 +1,41 @@
+*******************************************************************************
+*******************************************************************************
+INSTALLING APPLICATION MANAGER PHASE 1. VERSION: 1.1
+*******************************************************************************
+*******************************************************************************
+Creating SYS objects
+Creating app manager schema
+CREATING USER: STU_MANAGER
+*******************************************************************************
+*******************************************************************************
+Creating STU_MANAGER objects
+Creating sequences....
+Creating static tables....
+Generating Constraints....
+Generating Indexes....
+Creating static table data....
+Generating constants....
+Creating Foreign key constraints
+Creating synonyms
+Creating views....
+Creating types....
+Creating contexts....
+Creating Functions....
+Creating package headers
+Creating package bodies
+
+Warning: Package Body created with compilation errors.
+
+
+Warning: Package Body created with compilation errors.
+
+Creating Procedures....
+Creating grants
+*******************************************************************************
+*******************************************************************************
+Installation complete
+
+PLEASE EXAMINE THE LOGFILE FOR ANY ERRORS
+
+*******************************************************************************
+*******************************************************************************
